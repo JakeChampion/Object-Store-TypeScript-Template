@@ -4,6 +4,12 @@ Fastly Object Store is a globally consistent key-value storage accessible across
 
 **For more details about other starter kits for Compute@Edge, see the [Fastly developer hub](https://developer.fastly.com/solutions/starters)**
 
+**Object Store Templates In Other Languages:**
+
+- [Go](https://github.com/JakeChampion/Object-Store-Go-Template/#object-store-go-template)
+- [Rust](https://github.com/JakeChampion/Object-Store-Rust-Template#object-store-rust-template)
+- [TypeScript](https://github.com/JakeChampion/Object-Store-TypeScript-Template#object-store-typescript-template)
+
 ## Getting Started
 
 ### Installing the Fastly CLI
