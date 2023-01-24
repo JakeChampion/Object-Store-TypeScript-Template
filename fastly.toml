@@ -19,3 +19,10 @@ service_id = ""
 
 [scripts]
   build = "npm run build"
+
+[setup]
+
+  [setup.object_stores]
+
+    [setup.object_stores.my-store]
+      description = "My first object store"
